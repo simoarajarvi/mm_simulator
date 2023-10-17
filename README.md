@@ -1,4 +1,15 @@
 ## MM Simulator
 Controlled Marketing Mix generator for testing attribution and MM models.
 
-![Model comparison](./mm_adjust_comparison.png)
+### Purpose
+
+
+### Example use
+
+
+### Model comparison
+
+![Model comparison](./images/mm_adjust_comparison.png)
+
+
+### Roadmap
